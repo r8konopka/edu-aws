@@ -10,6 +10,6 @@ public class MainController {
 
     @GetMapping
     public String hello() {
-        return "Hello AWS jenkins";
+        return "Hello AWS jenkins 2";
     }
 }
